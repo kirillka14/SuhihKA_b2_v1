@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuhihKA_02_01</string>
+    <string name="Calc">Геометрический калькулятор</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="reg">Регистрация</string>
+    <string name="figure">Выбор фигуры</string>
+    <string name="figura">Выберите фигуру</string>
+    <string name="dan">Введите данные для расчета</string>
+    <string name="ras">Выполнить расчет</string>
+    <string name="alert">Введите логин и пароль</string>
+    <string name="result">Результат Вычисления</string>
+    <string name="res">РЕЗУЛЬТАТ</string>
+    <string name="NameFigure">Название выбраной фигуры</string>
+</resources>
